@@ -1,0 +1,12 @@
+build:
+
+  docker:
+
+      worker: /Dockerfile
+
+run: 
+
+   worker: /procfile
+
+
+
